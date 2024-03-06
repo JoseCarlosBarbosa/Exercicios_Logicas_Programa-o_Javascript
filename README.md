@@ -1,7 +1,7 @@
 
-#Exercícios de Lógica de Programação em JavaScript
+# Exercícios de Lógica de Programação em JavaScript
 
-##EXERCICIO 1
+## EXERCICIO 1
 
 Este é um exercício de lógica de programação em Java que visa praticar o conceito de soma de elementos em um vetor e verificar se essa soma corresponde a um valor de busca especificado.
 
@@ -21,8 +21,8 @@ Caso contrário, indica que não há uma combinação de números no vetor que r
 
 
 
-##EXERCICIO 2
-#Exercício: Arranjo para Foto de Turma
+## EXERCICIO 2
+# Exercício: Arranjo para Foto de Turma
 
 Neste exercício, você será desafiado a organizar uma turma para uma foto de classe, 
 seguindo certas regras específicas. Vamos detalhar o problema e, em seguida, apresentar a descrição da entrada e saída esperadas, bem como um exemplo.
@@ -47,7 +47,7 @@ Copy code
 true
 
 
-##EXERCICIO 3 
+## EXERCICIO 3 
 
 # Compressão de String
 
